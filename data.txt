@@ -1,0 +1,6 @@
+21,rihan,aligarh,25000
+22,rihan,aligarh,25000
+23,rihan,aligarh,25000
+24,rihan,aligarh,25000
+25,rihan,aligarh,25000
+
