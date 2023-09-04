@@ -1,3 +1,4 @@
+
 #copy all the columns in the backup table.
 CREATE TABLE Table_Name AS SELECT * FROM Source_Table_Name;
 
